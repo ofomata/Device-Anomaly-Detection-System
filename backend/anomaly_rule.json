@@ -1,0 +1,12 @@
+{
+    "sql": "SELECT * FROM 'anom/detect'",
+    "ruleDisabled": false,
+    "actions": [
+        {
+            "lambda": {
+                "functionArn": "arn:aws:lambda:REGION:ACCOUNT-ID:function:anomaly_detector"
+            }
+        }
+    ]
+}
+
