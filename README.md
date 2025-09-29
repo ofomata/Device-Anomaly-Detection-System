@@ -6,7 +6,7 @@ A **serverless web application** to monitor printer anomalies in real-time. It t
 
 ## Architecture Diagram
 
-![Architecture Diagram](./screenshots/architecture.png)
+![Architecture Diagram](./screenshots/architecture.jpeg)
 
 ---
 
